@@ -1,24 +1,24 @@
-<h5 align="left">Hello and welcome 👋</h5>
+<h3 align="left">Hello and welcome 👋</h3>
 
 ---
 
-<h5 align="left">My name is Dao Ngoc Tung Nguyen, and I am currently pursuing a degree in Artificial Intelligence. I am passionate about leveraging AI technologies to build meaningful solutions that address real-world problems.</h5>
+<h3 align="left">My name is Dao Ngoc Tung Nguyen, and I am currently pursuing a degree in Artificial Intelligence. I am passionate about leveraging AI technologies to build meaningful solutions that address real-world problems.</h3>
 
 ---
 
-<h5 align="left">🔭 Current Focus Areas:<br>- 🚀 AI-Powered Solutions: Designing and implementing intelligent applications that solve practical challenges using machine learning and deep learning techniques.  <br>- 📊 Data Analysis: Applying Python and SQL to extract, analyze, and interpret complex datasets to support informed decision-making.  <br>- 🌐 Web Development: Exploring both front-end and back-end technologies to develop responsive, user-friendly web applications.</h5>
+<h3 align="left">🔭 Current Focus Areas:<br>- 🚀 AI-Powered Solutions: Designing and implementing intelligent applications that solve practical challenges using machine learning and deep learning techniques.  <br>- 📊 Data Analysis: Applying Python and SQL to extract, analyze, and interpret complex datasets to support informed decision-making.  <br>- 🌐 Web Development: Exploring both front-end and back-end technologies to develop responsive, user-friendly web applications.</h3>
 
 ---
 
-<h5 align="left">🌱 I am actively expanding my knowledge in web development, JavaScript, React, and Large Language Models (LLMs).</h5>
+<h3 align="left">🌱 I am actively expanding my knowledge in web development, JavaScript, React, and Large Language Models (LLMs).</h3>
 
 ---
 
-<h5 align="left">💬 Areas of Interest:<br>- Artificial Intelligence and Machine Learning – including model development, evaluation, and real-world applications.  <br>- Data Analysis – focusing on practical tools, techniques, and methodologies for uncovering insights from data.</h5>
+<h3 align="left">💬 Areas of Interest:<br>- Artificial Intelligence and Machine Learning – including model development, evaluation, and real-world applications.  <br>- Data Analysis – focusing on practical tools, techniques, and methodologies for uncovering insights from data.</h3>
 
 ---
 
-<h5 align="left">Thank you for visiting my profile!</h5>
+<h3 align="left">Thank you for visiting my profile!</h3>
 
 ###
 
