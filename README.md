@@ -1,4 +1,4 @@
-<h5 align="left">Hello and welcome 👋<br><br>My name is Dao Ngoc Tung Nguyen, and I am currently pursuing a degree in Artificial Intelligence. I am passionate about leveraging AI technologies to build meaningful solutions that address real-world problems.<br><br>🔭 Current Focus Areas:<br>- 🚀 AI-Powered Solutions: Designing and implementing intelligent applications that solve practical challenges using machine learning and deep learning techniques.  <br>- 📊 Data Analysis: Applying Python and SQL to extract, analyze, and interpret complex datasets to support informed decision-making.  <br>- 🌐 Web Development: Exploring both front-end and back-end technologies to develop responsive, user-friendly web applications.<br><br>🌱 I am actively expanding my knowledge in web development, JavaScript, React, and Large Language Models (LLMs).<br><br>💬 Areas of Interest:<br>- Artificial Intelligence and Machine Learning – including model development, evaluation, and real-world applications.  <br>- Data Analysis – focusing on practical tools, techniques, and methodologies for uncovering insights from data.<br><br>Thank you for visiting my profile!</h5>
+<h5 align="left" style="color: #e4e4e4;">Hello and welcome 👋<br><br>My name is Dao Ngoc Tung Nguyen, and I am currently pursuing a degree in Artificial Intelligence. I am passionate about leveraging AI technologies to build meaningful solutions that address real-world problems.<br><br>🔭 Current Focus Areas:<br>- 🚀 AI-Powered Solutions: Designing and implementing intelligent applications that solve practical challenges using machine learning and deep learning techniques.  <br>- 📊 Data Analysis: Applying Python and SQL to extract, analyze, and interpret complex datasets to support informed decision-making.  <br>- 🌐 Web Development: Exploring both front-end and back-end technologies to develop responsive, user-friendly web applications.<br><br>🌱 I am actively expanding my knowledge in web development, JavaScript, React, and Large Language Models (LLMs).<br><br>💬 Areas of Interest:<br>- Artificial Intelligence and Machine Learning – including model development, evaluation, and real-world applications.  <br>- Data Analysis – focusing on practical tools, techniques, and methodologies for uncovering insights from data.<br><br>Thank you for visiting my profile!</h5>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<div align="left">
+<div align="left" style="background-color: #282a36; padding: 10px; border-radius: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
